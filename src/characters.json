@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/clicky/images//barbara.png"
+  },
+  {
+    "id": 2,
+    "image": "/clicky/images//demogorgon.png"
+  },
+  {
+    "id": 3,
+    "image": "/clicky/images//eleven.png"
+  },
+  {
+    "id": 4,
+    "image": "/clicky/images//lucas.png"
+  },
+  {
+    "id": 5,
+    "image": "/clicky/images//will.png"
+  },
+  {
+    "id": 6,
+    "image": "/clicky/images//jerry.jpg"
+  }
+]
